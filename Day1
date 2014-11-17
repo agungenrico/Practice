@@ -1,0 +1,11 @@
+Day 1 of training SmartGit/VCS (Version Control System).
+
+Intrudoction.
+VCS (Version Control System) is about methodlogy of recovery on your work.
+This is esaily to recover and allows you to revert files back to a previous 
+state, revert the entire project back to a previous state, compare changes 
+over time, see who last modified something that might be causing a problem,
+who introduced an issue and when, and more.
+
+VCS Consist of two type :
+Centralized VCS and Distributed VCS.

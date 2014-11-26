@@ -13,3 +13,6 @@ Centralized VCS and Distributed VCS.
 Distributed method is more strongth and safe than Centralized method.
 Every document in local can shared by local, not using server. So, when
 connection get error we do not worried get lost the document.
+
+
+first edit in master

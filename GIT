@@ -1,0 +1,15 @@
+Day 1
+Command on Terminal
+
+git init
+touch <file>
+pico <file>
+git add <file>
+git status
+git config --global user.name <name of user>
+git config --global user.email <email of user>
+git commit -m "message"
+git branch <branch_name>
+git checkout
+git revert
+git reset
